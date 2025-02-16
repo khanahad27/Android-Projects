@@ -57,7 +57,7 @@ Blood Aid is a revolutionary blood donation management application designed to b
 ## 4.Donor Registration Page:-
 
 ![image](https://github.com/user-attachments/assets/b450bf23-d0f1-4d8a-b419-41bfb96fed02)
-![image](https://github.com/user-attachments/assets/1e368996-c43c-4cdc-a4f8-5ace41d4371e)
+![image](https://github.com/user-attachments/assets/70db55ad-34f5-48b0-b938-108b113276ec)
 
 ## 5.Blood Bank Registration Page:-
 
