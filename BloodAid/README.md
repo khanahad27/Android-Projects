@@ -42,22 +42,22 @@ Blood Aid is a revolutionary blood donation management application designed to b
 4. **Push to your fork** and create a pull request.
 
 ## 📷 Screenshot
-##1.Splash Screen:-![image](https://github.com/user-attachments/assets/4384b9cd-7f0a-47f2-8c61-4c7bec2d2668)
+## 1.Splash Screen:-![image](https://github.com/user-attachments/assets/4384b9cd-7f0a-47f2-8c61-4c7bec2d2668)
 
-##2.Login Page:-![image](https://github.com/user-attachments/assets/025c8aa9-d1a8-43bb-94cc-93f9672163d5)
+## 2.Login Page:-![image](https://github.com/user-attachments/assets/025c8aa9-d1a8-43bb-94cc-93f9672163d5)
 
-##3.Forget Password Page:-![image](https://github.com/user-attachments/assets/72d80c21-4f29-4c6a-901f-eb81e41576aa)
+## 3.Forget Password Page:-![image](https://github.com/user-attachments/assets/72d80c21-4f29-4c6a-901f-eb81e41576aa)
 
-##4.Donor Registration Page:-![image](https://github.com/user-attachments/assets/b450bf23-d0f1-4d8a-b419-41bfb96fed02)
+## 4.Donor Registration Page:-![image](https://github.com/user-attachments/assets/b450bf23-d0f1-4d8a-b419-41bfb96fed02)
 ![image](https://github.com/user-attachments/assets/1e368996-c43c-4cdc-a4f8-5ace41d4371e)
 
-##5.Blood Bank Registration Page:-![image](https://github.com/user-attachments/assets/249766bb-ab29-4e1e-bb8f-de888de786a1)
+## 5.Blood Bank Registration Page:-![image](https://github.com/user-attachments/assets/249766bb-ab29-4e1e-bb8f-de888de786a1)
 
-##6.Home Page:-![image](https://github.com/user-attachments/assets/4cccd65e-fd04-4bf1-a921-a2239288b4ed)
+## 6.Home Page:-![image](https://github.com/user-attachments/assets/4cccd65e-fd04-4bf1-a921-a2239288b4ed)
 
-##7.Donor Page:-![image](https://github.com/user-attachments/assets/7b7ea8a2-3cc5-49aa-bc57-e27d1d21a189)
+## 7.Donor Page:-![image](https://github.com/user-attachments/assets/7b7ea8a2-3cc5-49aa-bc57-e27d1d21a189)
 
-##8.Bank Page:-![image](https://github.com/user-attachments/assets/6c4e80fe-b49a-4458-9246-e56df0db0ce5)
+## 8.Bank Page:-![image](https://github.com/user-attachments/assets/6c4e80fe-b49a-4458-9246-e56df0db0ce5)
 
 ## 📬 Contact
 For any queries or collaborations, feel free to reach out at **khan.ahad9960881652@gmail.com**.
